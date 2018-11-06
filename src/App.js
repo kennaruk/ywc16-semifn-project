@@ -2,6 +2,12 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
+import * as d3 from "d3";
+import "aframe";
+import "aframe-scatterplot";
+import { Entity, Scene } from "aframe-react";
+
+import data from "./controllers/data.json";
 import { fetchPDC } from "./controllers/pdc";
 class App extends Component {
 	constructor() {
@@ -14,8 +20,18 @@ class App extends Component {
 		console.log(await fetchPDC());
 	}
 	render() {
-		this.fetchData();
-		return <div />;
+		// this.fetchData();
+		return (
+			<Scene>
+				<a-scatterplot
+					src={data}
+					x="field1"
+					y="field2"
+					z="field3"
+					val="field4"
+				/>
+			</Scene>
+		);
 		// return (
 		// 	<div className="App">
 		// 		<header className="App-header">
