@@ -1,0 +1,1013 @@
+[
+	{
+		"pdc_id": ["69941c4a-9169-4da4-ba1c-46d5f5f70d15"],
+		"title": ["Tornado - Memphis, TN WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-89.2927, 34.5367] },
+		"severity": ["WARNING"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Memphis, TN (KMEG)\nEvent Tracking Number: 48\n\nThe Tornado Warning has been cancelled and is no longer in effect."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/69941c4a-9169-4da4-ba1c-46d5f5f70d15/index.html"
+		],
+		"time": ["2018-11-06T04:11:31-10:00"]
+	},
+	{
+		"pdc_id": ["931e32fb-28a7-422f-ac05-b4ba6cb5a34f"],
+		"title": ["Tornado - Louisville, KY WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-86.2708, 37.1875] },
+		"severity": ["WARNING"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Louisville, KY (KLMK)\nEvent Tracking Number: 43\n\nAt 1007 PM CST, a severe thunderstorm capable of producing a tornado\nwas located 7 miles southwest of Munfordville, moving east at 45 mph.\n\nHAZARD...Tornado.\n\nSOURCE...Radar indicated rotation.\n\nIMPACT...Flying debris will be dangerous to those caught without\nshelter. Mobile homes will be damaged or destroyed. Damage\nto roofs, windows, and vehicles will occur.  Tree damage is\nlikely.\n\nLocations impacted include...\nMunfordville, Monroe, Horse Cave, Cave City, Rowletts, Logsdon\nValley, Whickerville, Bunnell Crossing, Northtown and Legrande.\n\nPRECAUTIONARY/PREPAREDNESS ACTIONS...\n\n TAKE COVER NOW! Move to a basement or an interior room on the lowest\nfloor of a sturdy building. Avoid windows. If you are outdoors, in a\nmobile home, or in a vehicle, move to the closest substantial shelter\nand protect yourself from flying debris.\n\nIf a tornado or other severe weather is spotted, report it to the\nNational Weather Service or your local nearest law enforcement agency\nwho will send your report. This act may save lives of others in the\npath of dangerous weather."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/931e32fb-28a7-422f-ac05-b4ba6cb5a34f/index.html"
+		],
+		"time": ["2018-11-06T04:11:31-10:00"]
+	},
+	{
+		"pdc_id": ["f7c3aec0-e2e7-44ed-a056-c5150fc874ae"],
+		"title": ["Tornado - Memphis, TN WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-88.8843, 34.8071] },
+		"severity": ["WATCH"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Memphis, TN (KMEG)\nEvent Tracking Number: 423\n\nTORNADO WATCH 423 REMAINS VALID UNTIL 3 AM CST TUESDAY FOR THE\nFOLLOWING AREAS\n\nIN MISSISSIPPI THIS WATCH INCLUDES 17 COUNTIES\n\nIN NORTH MISSISSIPPI\n\nALCORN                BENTON                CALHOUN\nCHICKASAW             ITAWAMBA              LAFAYETTE\nLEE                   MARSHALL              MONROE\nPANOLA                PONTOTOC              PRENTISS\nTALLAHATCHIE          TIPPAH                TISHOMINGO\nUNION                 YALOBUSHA\n\nIN TENNESSEE THIS WATCH INCLUDES 10 COUNTIES\n\nIN WEST TENNESSEE\n\nBENTON                CARROLL               CHESTER\nDECATUR               HARDEMAN              HARDIN\nHENDERSON             HENRY                 MADISON\nMCNAIRY\n\nTHIS INCLUDES THE CITIES OF ABERDEEN, AMORY, ASHLAND, BATESVILLE,\nBOLIVAR, BOONEVILLE, BRUCE, CALHOUN CITY, CAMDEN, CHARLESTON,\nCOFFEEVILLE, CORINTH, DECATURVILLE, FULTON, HENDERSON,\nHOLLY SPRINGS, HOUSTON, HUNTINGDON, IUKA, JACKSON, LEXINGTON,\nNEW ALBANY, OKOLONA, OXFORD, PARIS, PARSONS, PONTOTOC, RIPLEY MS,\nSAVANNAH, SELMER, TUPELO, AND WATER VALLEY."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/f7c3aec0-e2e7-44ed-a056-c5150fc874ae/index.html"
+		],
+		"time": ["2018-11-06T04:07:39-10:00"]
+	},
+	{
+		"pdc_id": ["69135c3d-b172-422b-99d9-022a77dd3735"],
+		"title": ["Tornado - Nashville, TN WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-87.1851, 36.3845] },
+		"severity": ["WARNING"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Nashville, TN (KOHX)\nEvent Tracking Number: 13\n\nThe Tornado Warning has been cancelled and is no longer in effect."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/69135c3d-b172-422b-99d9-022a77dd3735/index.html"
+		],
+		"time": ["2018-11-06T04:05:30-10:00"]
+	},
+	{
+		"pdc_id": ["22826cd7-9aab-4864-b832-a8001bb477cc"],
+		"title": ["Tornado - Memphis, TN WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-90.1322, 34.3594] },
+		"severity": ["WARNING"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Memphis, TN (KMEG)\nEvent Tracking Number: 46\n\nThe storm which prompted the warning has weakened below severe\nlimits, and has exited the warned area. Therefore, the warning will\nbe allowed to expire.\n\nA Tornado Watch remains in effect until 300 AM CST for northwestern\nMississippi."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/22826cd7-9aab-4864-b832-a8001bb477cc/index.html"
+		],
+		"time": ["2018-11-06T03:57:27-10:00"]
+	},
+	{
+		"pdc_id": ["08a0a736-6ecf-4d28-92b5-ab23fc38088a"],
+		"title": ["Tornado - Jackson, MS WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-90.8252, 32.8583] },
+		"severity": ["WATCH"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Jackson, MS (KJAN)\nEvent Tracking Number: 422\n\nTORNADO WATCH 422 REMAINS VALID UNTIL 11 PM CST THIS EVENING FOR\nTHE FOLLOWING AREAS\n\nIN LOUISIANA THIS WATCH INCLUDES 8 PARISHES\n\nIN NORTHEAST LOUISIANA\n\nCATAHOULA             EAST CARROLL          FRANKLIN\nMADISON               MOREHOUSE             RICHLAND\nTENSAS                WEST CARROLL\n\nIN MISSISSIPPI THIS WATCH INCLUDES 13 COUNTIES\n\nIN CENTRAL MISSISSIPPI\n\nHOLMES                HUMPHREYS             YAZOO\n\nIN NORTH CENTRAL MISSISSIPPI\n\nCARROLL               GRENADA               LEFLORE\nMONTGOMERY            WEBSTER\n\nIN NORTHWEST MISSISSIPPI\n\nSUNFLOWER             WASHINGTON\n\nIN WEST CENTRAL MISSISSIPPI\n\nISSAQUENA             SHARKEY               WARREN\n\nTHIS INCLUDES THE CITIES OF ANGUILLA, BASTROP, BELZONI,\nCARROLLTON, DELHI, DURANT, EPPS, EUPORA, GOODMAN, GREENVILLE,\nGREENWOOD, GRENADA, HARRISONBURG, INDIANOLA, ISOLA, JONESVILLE,\nLAKE PROVIDENCE, LEXINGTON, MABEN, MATHISTON, MAYERSVILLE,\nNEWELLTON, NORTH CARROLLTON, OAK GROVE, PICKENS, RAYVILLE,\nROLLING FORK, RULEVILLE, ST. JOSEPH, TALLULAH, TCHULA, VAIDEN,\nVICKSBURG, WATERPROOF, WINNSBORO, WINONA, AND YAZOO CITY."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/08a0a736-6ecf-4d28-92b5-ab23fc38088a/index.html"
+		],
+		"time": ["2018-11-06T03:39:36-10:00"]
+	},
+	{
+		"pdc_id": ["78710235-8170-47a3-89df-776de87b0e64"],
+		"title": ["Wildfire - W of Warwick, Queensland - Australia"],
+		"loc": { "type": "Point", "coordinates": [151.434970279, -28.140132725] },
+		"severity": ["INFORMATION"],
+		"description": [
+			"Significant wildfire activity has been observed in the region."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/78710235-8170-47a3-89df-776de87b0e64/index.html"
+		],
+		"time": ["2018-11-06T03:36:58-10:00"]
+	},
+	{
+		"pdc_id": ["16d62e8d-71e1-4e7b-b611-cb2f3ff0eb73"],
+		"title": ["Volcano - Dukono, Indonesia"],
+		"loc": { "type": "Point", "coordinates": [127.88, 1.68] },
+		"severity": ["WATCH"],
+		"description": [
+			"Volcanic activity reported for DUKONO, issued by DARWIN\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=268010"
+		],
+		"source": ["http://volcano.si.edu/volcano.cfm?vn=268010"],
+		"time": ["2018-11-06T03:33:03-10:00"]
+	},
+	{
+		"pdc_id": ["77ff97ee-01e1-4088-80da-888524bedad0"],
+		"title": ["Tropical Cyclone - Xavier"],
+		"loc": { "type": "Point", "coordinates": [-107.5, 19.1] },
+		"severity": ["INFORMATION"],
+		"description": [
+			"A message for Tropical Cyclone - Xavier was issued by NWS at November 06, 03:00:00 GMT for the E Pacific Ocean.\n\nMaximum Sustained Winds: 40 kt, 46 mph, 74 kph\nWind Gusts of: 50 kt, 58 mph, 93 kph."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/77ff97ee-01e1-4088-80da-888524bedad0/index.html"
+		],
+		"time": ["2018-11-06T02:37:35-10:00"]
+	},
+	{
+		"pdc_id": ["1d3c8a57-6e6d-4127-90c8-505250b7ff2f"],
+		"title": ["Tornado - Little Rock, AR WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-91.6901, 33.7042] },
+		"severity": ["WATCH"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Little Rock, AR (KLZK)\nEvent Tracking Number: 423\n\nThe Tornado Watch has been cancelled and is no longer in effect."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/1d3c8a57-6e6d-4127-90c8-505250b7ff2f/index.html"
+		],
+		"time": ["2018-11-06T03:17:24-10:00"]
+	},
+	{
+		"pdc_id": ["d924ef9f-8b95-43dd-b4d0-861b2d7f2ca7"],
+		"title": ["Volcano - Krakatau, Indonesia"],
+		"loc": { "type": "Point", "coordinates": [105.423, -6.102] },
+		"severity": ["WARNING"],
+		"description": [
+			"Volcanic activity reported for KRAKATAU, issued by DARWIN\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=262000"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/d924ef9f-8b95-43dd-b4d0-861b2d7f2ca7/index.html"
+		],
+		"time": ["2018-11-06T03:13:02-10:00"]
+	},
+	{
+		"pdc_id": ["1d863a0d-750d-41f9-9a43-a77ebc78817c"],
+		"title": ["Tropical Cyclone - Three"],
+		"loc": { "type": "Point", "coordinates": [60.7, -8.8] },
+		"severity": ["WARNING"],
+		"description": [
+			"A message for Tropical Cyclone - Three was issued by JTWC at November 06, 03:00:00 GMT for the S Indian Ocean.\n\nMaximum Sustained Winds: 35 kt, 40 mph, 65 kph\nWind Gusts of: 45 kt, 52 mph, 83 kph."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/1d863a0d-750d-41f9-9a43-a77ebc78817c/index.html"
+		],
+		"time": ["2018-11-06T02:26:24-10:00"]
+	},
+	{
+		"pdc_id": ["b6416860-27ca-40f7-8f59-da41ad39216f"],
+		"title": ["Tornado - Shreveport, LA WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-92.8858, 31.9841] },
+		"severity": ["WATCH"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Shreveport, LA (KSHV)\nEvent Tracking Number: 422\n\nThe Tornado Watch has been cancelled and is no longer in effect."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/b6416860-27ca-40f7-8f59-da41ad39216f/index.html"
+		],
+		"time": ["2018-11-06T02:57:29-10:00"]
+	},
+	{
+		"pdc_id": ["71630932-84db-46aa-b40a-f3db1290e387"],
+		"title": ["Volcano - Ebeko, Russia"],
+		"loc": { "type": "Point", "coordinates": [156.014, 50.686] },
+		"severity": ["WARNING"],
+		"description": [
+			"Volcanic activity reported for EBEKO, issued by TOKYO\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=290380"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/71630932-84db-46aa-b40a-f3db1290e387/index.html"
+		],
+		"time": ["2018-11-06T02:41:24-10:00"]
+	},
+	{
+		"pdc_id": ["9f46f29b-8695-454a-9873-dc3c1ed8d618"],
+		"title": ["Earthquake - 5.3 - 212km S of Sarangani, Philippines"],
+		"loc": { "type": "Point", "coordinates": [125.4114, 3.4854] },
+		"severity": ["ADVISORY"],
+		"description": [
+			"An earthquake occurred with a magnitude of 5.3 at a depth of 10.0 km, Location: 212km S of Sarangani, Philippines reported by USGS at November 06, 02:26:58 GMT.\n\nPDC classifies this event as an \"Advisory\"\nCoordinates:\n  Latitude: 3.4854\n  Longitude: 125.4114\n"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/9f46f29b-8695-454a-9873-dc3c1ed8d618/index.html"
+		],
+		"time": ["2018-11-06T02:28:54-10:00"]
+	},
+	{
+		"pdc_id": ["bdbf1722-d29d-483c-acc9-76e6ca7b7004"],
+		"title": ["Volcano - Veniaminof, United States"],
+		"loc": { "type": "Point", "coordinates": [-159.38, 56.17] },
+		"severity": ["WATCH"],
+		"description": [
+			"Volcanic activity reported for VENIAMINOF, issued by ANCHORAGE\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=312070"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/bdbf1722-d29d-483c-acc9-76e6ca7b7004/index.html"
+		],
+		"time": ["2018-11-06T01:46:58-10:00"]
+	},
+	{
+		"pdc_id": ["7e403534-6a92-44a6-8c46-ed7304d93f8d"],
+		"title": ["Tornado - Nashville, TN WFO Region, US"],
+		"loc": { "type": "Point", "coordinates": [-87.0034, 35.8948] },
+		"severity": ["WATCH"],
+		"description": [
+			"Latest NWS Summary\nWeather Forecast Office: Nashville, TN (KOHX)\nEvent Tracking Number: 423\n\nTHE NATIONAL WEATHER SERVICE HAS ISSUED TORNADO WATCH 423 IN\nEFFECT UNTIL 3 AM CST TUESDAY FOR THE FOLLOWING AREAS\n\nIN TENNESSEE THIS WATCH INCLUDES 26 COUNTIES\n\nIN MIDDLE TENNESSEE\n\nBEDFORD               CANNON                CHEATHAM\nCOFFEE                DAVIDSON              DICKSON\nGILES                 HICKMAN               HOUSTON\nHUMPHREYS             LAWRENCE              LEWIS\nMACON                 MARSHALL              MAURY\nMONTGOMERY            PERRY                 ROBERTSON\nRUTHERFORD            SMITH                 STEWART\nSUMNER                TROUSDALE             WAYNE\nWILLIAMSON            WILSON\n\nTHIS INCLUDES THE CITIES OF ASHLAND CITY, BRENTWOOD, CARTHAGE,\nCENTERVILLE, CLARKSVILLE, CLIFTON, COLLINWOOD, COLUMBIA, DICKSON,\nDOVER, ERIN, FRANKLIN, GALLATIN, GOODLETTSVILLE, GORDONSVILLE,\nHARTSVILLE, HENDERSONVILLE, HOHENWALD, KINGSTON SPRINGS,\nLA VERGNE, LAFAYETTE, LAWRENCEBURG, LEBANON, LEWISBURG, LINDEN,\nLOBELVILLE, MANCHESTER, MCEWEN, MOUNT JULIET, MURFREESBORO,\nNASHVILLE, NEW JOHNSONVILLE, PEGRAM, PULASKI, SHELBYVILLE,\nSMYRNA, SOUTH CARTHAGE, SPRINGFIELD, TENNESSEE RIDGE, TULLAHOMA,\nWAVERLY, WAYNESBORO, AND WOODBURY."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/7e403534-6a92-44a6-8c46-ed7304d93f8d/index.html"
+		],
+		"time": ["2018-11-06T01:07:48-10:00"]
+	},
+	{
+		"pdc_id": ["428984f9-94ce-4c70-a1b0-d0d28e923e96"],
+		"title": ["Volcano - Sabancaya, Peru"],
+		"loc": { "type": "Point", "coordinates": [-71.85, -15.78] },
+		"severity": ["WARNING"],
+		"description": [
+			"Volcanic activity reported for SABANCAYA, issued by BUENOS AIRES\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=354006"
+		],
+		"source": ["http://volcano.si.edu/volcano.cfm?vn=354006"],
+		"time": ["2018-11-06T00:27:00-10:00"]
+	},
+	{
+		"pdc_id": ["f829f67c-e5ff-4337-992d-b54dcecc22fc"],
+		"title": ["Volcano - Sheveluch, Russia"],
+		"loc": { "type": "Point", "coordinates": [161.36, 56.653] },
+		"severity": ["WARNING"],
+		"description": [
+			"Volcanic activity reported for SHEVELUCH, issued by TOKYO\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=300270"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/f829f67c-e5ff-4337-992d-b54dcecc22fc/index.html"
+		],
+		"time": ["2018-11-06T00:03:00-10:00"]
+	},
+	{
+		"pdc_id": ["10e04556-350c-4a9e-89cb-6414d3097889"],
+		"title": ["Volcano - Kuchinoerabujima, Japan"],
+		"loc": { "type": "Point", "coordinates": [130.217, 30.443] },
+		"severity": ["ADVISORY"],
+		"description": [
+			"Volcanic activity reported for KUCHINOERABUJIMA, issued by TOKYO\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=282050"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/10e04556-350c-4a9e-89cb-6414d3097889/index.html"
+		],
+		"time": ["2018-11-06T00:05:03-10:00"]
+	},
+	{
+		"pdc_id": ["87da1db8-8732-42b5-9a86-31a514f07577"],
+		"title": ["Volcano - Klyuchevskoy, Russia"],
+		"loc": { "type": "Point", "coordinates": [160.642, 56.056] },
+		"severity": ["ADVISORY"],
+		"description": [
+			"Volcanic activity reported for KLYUCHEVSKOY, issued by TOKYO\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=300260"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/87da1db8-8732-42b5-9a86-31a514f07577/index.html"
+		],
+		"time": ["2018-11-05T23:51:04-10:00"]
+	},
+	{
+		"pdc_id": ["03cc7727-bd57-4706-84ab-7b8161af9046"],
+		"title": ["Volcano - Reventador, Ecuador"],
+		"loc": { "type": "Point", "coordinates": [-77.656, -0.077] },
+		"severity": ["WATCH"],
+		"description": [
+			"Volcanic activity reported for REVENTADOR, issued by WASHINGTON\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=352010"
+		],
+		"source": ["http://volcano.si.edu/volcano.cfm?vn=352010"],
+		"time": ["2018-11-05T23:07:04-10:00"]
+	},
+	{
+		"pdc_id": ["2587aa35-b68d-49d0-bd37-816bb47e3aa8"],
+		"title": ["Earthquake - 5.2 - 11km ENE of Mamasa, Indonesia"],
+		"loc": { "type": "Point", "coordinates": [119.4727, -2.9044] },
+		"severity": ["ADVISORY"],
+		"description": [
+			"An earthquake occurred with a magnitude of 5.2 at a depth of 10.0 km, Location: 11km ENE of Mamasa, Indonesia reported by USGS at November 05, 19:06:27 GMT.\n\nPDC classifies this event as an \"Advisory\"\nCoordinates:\n  Latitude: -2.9044\n  Longitude: 119.4727\n"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/2587aa35-b68d-49d0-bd37-816bb47e3aa8/index.html"
+		],
+		"time": ["2018-11-05T19:07:41-10:00"]
+	},
+	{
+		"pdc_id": ["110752aa-8c77-46f9-a615-1a04dce08e7b"],
+		"title": ["Wildfires - Maranoa and Warrego, Queensland, Australia"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [148.42744736075804, -26.400955442668298]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"Australian Government has reported that wildfires may occur. For more information please visit http://www.bom.gov.au/qld/warnings/fire.shtml. \n"
+		],
+		"source": ["http://www.bom.gov.au/qld/warnings/fire.shtml"],
+		"time": ["2018-11-05T22:10:09-10:00"]
+	},
+	{
+		"pdc_id": ["a9a76bcf-1c25-4e55-9b6a-eea617fee8ac"],
+		"title": [
+			"Storms - Riverina, Lower Western and parts of Upper Western Districts, New South Wales, Australia"
+		],
+		"loc": {
+			"type": "Point",
+			"coordinates": [144.94863787911333, -35.61843787865145]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Australian Government has reported that storms are occurring or imminent. For more information please visit http://www.bom.gov.au/products/IDN21033.shtml. \n"
+		],
+		"source": ["http://www.bom.gov.au/products/IDN21033.shtml"],
+		"time": ["2018-11-05T22:07:20-10:00"]
+	},
+	{
+		"pdc_id": ["94030348-6bcb-4ce6-b05c-351fb388a6b3"],
+		"title": ["Storms - Central and Eastern Victoria, Australia"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [145.72956835458035, -37.2536127001456]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Australian Government has reported that storms are occurring or imminent. For more information please visit http://www.bom.gov.au/products/IDV21037.shtml. \n"
+		],
+		"source": ["http://www.bom.gov.au/products/IDV21037.shtml"],
+		"time": ["2018-11-05T22:01:31-10:00"]
+	},
+	{
+		"pdc_id": ["9837d7e7-5912-459b-b51a-13bd47041fd5"],
+		"title": ["Floods - Sicily, Italy "],
+		"loc": {
+			"type": "Point",
+			"coordinates": [14.062392941244525, 37.60656446212671]
+		},
+		"severity": ["INFORMATION"],
+		"description": [
+			"Floodlist has reported that floods occurred. For more information please visit http://floodlist.com/europe/italy-flash-floods-sicily-novermber-2018. \n"
+		],
+		"source": [
+			"http://floodlist.com/europe/italy-flash-floods-sicily-novermber-2018"
+		],
+		"time": ["2018-11-05T21:57:29-10:00"]
+	},
+	{
+		"pdc_id": ["0baf51a8-bd6a-4b9e-a2d5-a310e9e6cd2f"],
+		"title": ["Floods - Red Sea State, Sudan"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [35.87117097883265, 20.10098564527802]
+		},
+		"severity": ["INFORMATION"],
+		"description": [
+			"Floodlist has reported that floods occurred. For more information please visit http://floodlist.com/africa/sudan-four-people-killed-in-new-floods-in-red-sea-state. \n"
+		],
+		"source": [
+			"http://floodlist.com/africa/sudan-four-people-killed-in-new-floods-in-red-sea-state"
+		],
+		"time": ["2018-11-05T21:54:29-10:00"]
+	},
+	{
+		"pdc_id": ["8de65b38-9237-4a5e-ad27-94511024c09a"],
+		"title": ["Winter Storms - Central Manitoba and Saskatchewan, Canada"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-101.84685712871669, 54.25905594995442]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Government of Canada has reported that winter storms are occurring or imminent. For more information please visit https://weather.gc.ca/warnings/. \n"
+		],
+		"source": ["https://weather.gc.ca/warnings/"],
+		"time": ["2018-11-05T21:52:07-10:00"]
+	},
+	{
+		"pdc_id": ["e51caa8f-46aa-40c4-8e8b-9c5fc5a5bb4a"],
+		"title": ["Avalanches - Glacier National Park, Canada"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-117.55432488742707, 51.328071126205344]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Government of Canada has reported that avalanches are occurring or imminent. For more information please visit https://avalanche.pc.gc.ca/index-eng.aspx?d=TODAY. \n"
+		],
+		"source": ["https://avalanche.pc.gc.ca/index-eng.aspx?d=TODAY"],
+		"time": ["2018-11-05T21:49:54-10:00"]
+	},
+	{
+		"pdc_id": ["669355a8-c740-4053-bba4-cd0b7ebce07b"],
+		"title": ["Storms - Pacific Coast, Costa Rica"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-84.60737528903036, 10.141612876279206]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"IMN has reported that storms are occurring or imminent. For more information please visit https://www.imn.ac.cr/en/web/imn/avisos-meteorologicos/-/asset_publisher/jUexp4gzJzdk/content/aviso-meteorologico-imn-041118-10-00am?redirect=https%3A%2F%2Fwww.imn.ac.cr%2Fen%2Fweb%2Fimn%2Favisos-meteorologicos%3Fp_p_id%3D101_INSTANCE_jUexp4gzJzdk%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D3. \n"
+		],
+		"source": [
+			"https://www.imn.ac.cr/en/web/imn/avisos-meteorologicos/-/asset_publisher/jUexp4gzJzdk/content/aviso-meteorologico-imn-041118-10-00am?redirect=https%3A%2F%2Fwww.imn.ac.cr%2Fen%2Fweb%2Fimn%2Favisos-meteorologicos%3Fp_p_id%3D101_INSTANCE_jUexp4gzJzdk%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D3"
+		],
+		"time": ["2018-11-05T21:48:03-10:00"]
+	},
+	{
+		"pdc_id": ["3c52acd6-6422-4505-ac25-97ddd8b47ac7"],
+		"title": [
+			"Avalanches - Bridger-Teton National Forest, Wyoming, United States"
+		],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-110.221921831126, 43.94737729934823]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"National Avalanche Center has reported that avalanches may occur. For more information please visit https://avalanche.org/. \n"
+		],
+		"source": ["https://avalanche.org/"],
+		"time": ["2018-11-05T21:43:39-10:00"]
+	},
+	{
+		"pdc_id": ["80a8222e-6076-40d4-97a7-7652e1e0045f"],
+		"title": ["Storms - Nayarit, Jalisco, Colima, and Michoacan, Mexico"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-103.88345205699488, 20.53512870681332]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Gob.MX has reported that storms are occurring or imminent. For more information please visit http://smn.cna.gob.mx/es/pronosticos/avisos/aviso-de-potencial-de-tormentas. \n"
+		],
+		"source": [
+			"http://smn.cna.gob.mx/es/pronosticos/avisos/aviso-de-potencial-de-tormentas"
+		],
+		"time": ["2018-11-05T21:40:58-10:00"]
+	},
+	{
+		"pdc_id": ["c881c358-1e88-476f-a214-7b89cb9bb44a"],
+		"title": ["Drought - Gangneung, South Korea"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [128.9000021696903, 37.76370368388768]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Korea Meteorological Administration has reported that a drought is occurring or imminent. For more information please visit https://web.kma.go.kr/eng/weather/forecast/notice.jsp. \n"
+		],
+		"source": ["https://web.kma.go.kr/eng/weather/forecast/notice.jsp"],
+		"time": ["2018-11-05T21:38:54-10:00"]
+	},
+	{
+		"pdc_id": ["c68dfd9f-21c4-4b57-aaf9-b966455ce45a"],
+		"title": ["Wildfires - Northern Slopes, New South Wales, Australia"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [149.931640625, -29.73010666532907]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"Australian Government has reported that wildfires may occur. For more information please visit http://www.bom.gov.au/nsw/warnings/fire.shtml. \n"
+		],
+		"source": ["http://www.bom.gov.au/nsw/warnings/fire.shtml"],
+		"time": ["2018-11-05T21:35:58-10:00"]
+	},
+	{
+		"pdc_id": ["e59069fe-b6c0-4c66-896c-285029e9d667"],
+		"title": ["Floods - Southern Wisconsin and Eastern Iowa, United States"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-91.05443560772238, 42.79218429847759]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"NWS has reported that floods may occur. For more information please visit https://www.wpc.ncep.noaa.gov/nationalfloodoutlook/. \n"
+		],
+		"source": ["https://www.wpc.ncep.noaa.gov/nationalfloodoutlook/"],
+		"time": ["2018-11-05T21:32:15-10:00"]
+	},
+	{
+		"pdc_id": ["22e4466e-6c71-4057-a2dc-24d1b447a48d"],
+		"title": ["Winter Storms - Western Montana, United States"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-112.64109247212599, 46.90573186059517]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"NWS has reported that winter storms are occurring or imminent. For more information please visit https://www.weather.gov/. \n"
+		],
+		"source": ["https://www.weather.gov/"],
+		"time": ["2018-11-05T21:24:55-10:00"]
+	},
+	{
+		"pdc_id": ["7782de6e-4d9a-4e20-a140-4246b7e73563"],
+		"title": ["Flood - Veneto, Italy"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [11.866561503020534, 45.74041242475229]
+		},
+		"severity": ["INFORMATION"],
+		"description": [
+			"Copernicus has reported that a flood occurred. For more information please visit http://emergency.copernicus.eu/mapping/list-of-components/EMSR332. \n"
+		],
+		"source": [
+			"http://emergency.copernicus.eu/mapping/list-of-components/EMSR332"
+		],
+		"time": ["2018-11-05T21:23:05-10:00"]
+	},
+	{
+		"pdc_id": ["6e1e75c5-9268-4b5a-a01a-67b344e4cf90"],
+		"title": ["High Wind - Western and Central Europe"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [13.60584942246038, 46.52190877200873]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"Meteoalarm has reported that high wind is occurring or imminent. For more information please visit http://www.meteoalarm.eu/?lang=en_UK. \n"
+		],
+		"source": ["http://www.meteoalarm.eu/?lang=en_UK"],
+		"time": ["2018-11-05T21:20:50-10:00"]
+	},
+	{
+		"pdc_id": ["fa607f03-d7b3-4b66-8c11-7ad56049db75"],
+		"title": ["Storms - Northern Japan"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [142.65907570026798, 43.41404567932573]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"Japan Meteorological Agency has reported that storms may occur. For more information please visit http://www.jma.go.jp/en/warn/index.html. \n"
+		],
+		"source": ["http://www.jma.go.jp/en/warn/index.html"],
+		"time": ["2018-11-05T21:19:01-10:00"]
+	},
+	{
+		"pdc_id": ["dee21998-b3db-47b7-966c-f6ed664b90eb"],
+		"title": ["Extreme Heat - Chile"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-70.25784312488679, -27.288658876314575]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"ONEMI has reported that extreme heat temperatures may occur. For more information please visit http://www.onemi.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-altas-temperaturas-2/. \n"
+		],
+		"source": [
+			"http://www.onemi.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-por-altas-temperaturas-2/"
+		],
+		"time": ["2018-11-05T21:17:12-10:00"]
+	},
+	{
+		"pdc_id": ["6a8dcea1-9205-4a27-9e9d-4b628ba8ca40"],
+		"title": ["Floods - Bolivia"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-64.38553329355443, -17.246358755691634]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"Senamhi has reported that floods may occur. For more information please visit http://www.senamhi.gob.bo/alerta1.php?id=426. \n"
+		],
+		"source": ["http://www.senamhi.gob.bo/alerta1.php?id=426"],
+		"time": ["2018-11-05T21:14:24-10:00"]
+	},
+	{
+		"pdc_id": ["f44918c5-d343-496b-af1b-2694bb523081"],
+		"title": ["Storms - Panama"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-80.21253823844023, 8.896086160446401]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Hidromet has reported that storms are occurring or imminent. For more information please visit http://www.hidromet.com.pa/boletines.php?act=ver&id=2&fecha=2018-11-05. \n"
+		],
+		"source": [
+			"http://www.hidromet.com.pa/boletines.php?act=ver&id=2&fecha=2018-11-05"
+		],
+		"time": ["2018-11-05T21:12:23-10:00"]
+	},
+	{
+		"pdc_id": ["14632ea9-8fda-4986-9aef-1154597d1239"],
+		"title": ["Storms - Brunei Darussalam"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [114.75546231509657, 4.507864074435705]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"BDMD has reported that storms are occurring or imminent. For more information please visit http://www.bruneiweather.com.bn/weather. \n"
+		],
+		"source": ["http://www.bruneiweather.com.bn/weather"],
+		"time": ["2018-11-05T21:07:37-10:00"]
+	},
+	{
+		"pdc_id": ["16af9801-35a5-4e70-8696-391c7d935151"],
+		"title": ["Storms - Eastern South Africa"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [29.13320200383373, -27.198557198170572]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"South African Weather Service has reported that storms are occurring or imminent. For more information please visit http://www.weathersa.co.za/warnings. \n"
+		],
+		"source": ["http://www.weathersa.co.za/warnings"],
+		"time": ["2018-11-05T21:09:54-10:00"]
+	},
+	{
+		"pdc_id": ["c17d3c11-5a28-4617-a158-6f12311c8e79"],
+		"title": ["Storms - Italy "],
+		"loc": {
+			"type": "Point",
+			"coordinates": [12.788032891118746, 42.514868924890024]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Meteoalarm has reported that storms are occurring or imminent. For more information please visit http://www.meteoalarm.eu/en_UK/0/0/IT-Italy.html. \n"
+		],
+		"source": ["http://www.meteoalarm.eu/en_UK/0/0/IT-Italy.html"],
+		"time": ["2018-11-05T21:05:32-10:00"]
+	},
+	{
+		"pdc_id": ["c246efce-7949-4e99-9e38-13975f7be011"],
+		"title": ["Floods - Southeastern France"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [5.581001641118746, 44.34962175409338]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"Meteoalarm has reported that floods may occur. For more information please visit http://www.meteoalarm.eu/en_UK/0/0/FR-France.html. \n"
+		],
+		"source": ["http://www.meteoalarm.eu/en_UK/0/0/FR-France.html"],
+		"time": ["2018-11-05T21:03:21-10:00"]
+	},
+	{
+		"pdc_id": ["49c2bfc2-d0d7-4e36-ad0a-22d470252891"],
+		"title": ["Volcano - Fuego, Guatemala"],
+		"loc": { "type": "Point", "coordinates": [-90.88, 14.473] },
+		"severity": ["WARNING"],
+		"description": [
+			"Volcanic activity reported for FUEGO, issued by WASHINGTON\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=342090"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/49c2bfc2-d0d7-4e36-ad0a-22d470252891/index.html"
+		],
+		"time": ["2018-11-05T20:45:04-10:00"]
+	},
+	{
+		"pdc_id": ["8725cb2f-dbd7-493d-9dae-65dc5921de8c"],
+		"title": [
+			"Tsunami  (AK/BC/US West Coast) - 115 miles SW of Port Alice, British Columbia - 4.5"
+		],
+		"loc": { "type": "Point", "coordinates": [-129.39, 49.343] },
+		"severity": ["INFORMATION"],
+		"description": [
+			"An earthquake of preliminary magnitude of 4.5 at a depth of 11.0 km occurred, Location: 115 miles SW of Port Alice, British Columbia, reported by NTWC at November 05, 20:32:56 GMT.\n\nA Tsunami Information Statement has been issued for AK/BC/US West Coast.\nCoordinates:\n  Latitude: 49.343\n  Longitude: -129.39\n\nThis is a Tsunami Information Statement for Alaska, British Columbia, Washington, Oregon, and California.  - Event details: Preliminary magnitude 4.5 (mb) earthquake / Lat: 49.343, Lon: -129.390 at 2018-11-05T20:25:40 UTC An information statement indicates that an earthquake has occurred, but does not pose a tsunami threat, or that a tsunami warning, advisory, or watch has been issued for another section of the ocean."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/8725cb2f-dbd7-493d-9dae-65dc5921de8c/index.html"
+		],
+		"time": ["2018-11-05T20:34:27-10:00"]
+	},
+	{
+		"pdc_id": ["3258219f-ed9f-4c96-a7fe-60a8510cb22b"],
+		"title": ["Storms - Tamilnadu, Puducherry, and Kerala, India"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [78.3574127990471, 10.733272386217026]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"NDMA has reported that storms are occurring or imminent. For more information please visit https://ndma.gov.in/en/alerts/2069-01-nov-2018-at-2000-hrs.html. \n"
+		],
+		"source": [
+			"https://ndma.gov.in/en/alerts/2069-01-nov-2018-at-2000-hrs.html"
+		],
+		"time": ["2018-11-05T19:22:31-10:00"]
+	},
+	{
+		"pdc_id": ["226df927-06cb-4c6e-bb13-c4dc89eb0a60"],
+		"title": ["Avalanches - Southern Switzerland"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [8.812920382722268, 46.39400993597311]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"Swiss Confederation has reported that avalanches may occur. For more information please visit https://www.natural-hazards.ch/home/current-natural-hazards.html. \n"
+		],
+		"source": [
+			"https://www.natural-hazards.ch/home/current-natural-hazards.html"
+		],
+		"time": ["2018-11-05T19:20:51-10:00"]
+	},
+	{
+		"pdc_id": ["98b064b2-35e4-4722-8306-931634a6a8b2"],
+		"title": ["Floods - Southern and Central Texas, United States"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-98.68909258927408, 30.80097679541806]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"NWS has reported that floods are occurring or imminent. For more information please visit https://www.wpc.ncep.noaa.gov/nationalfloodoutlook/. \n"
+		],
+		"source": ["https://www.wpc.ncep.noaa.gov/nationalfloodoutlook/"],
+		"time": ["2018-11-05T17:50:22-10:00"]
+	},
+	{
+		"pdc_id": ["2483fc10-f728-4f0c-bee2-7ec561ddfcd0"],
+		"title": ["Storms - Singapore"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [103.93422371885202, 1.282889484793638]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"Meteorological Service Singapore has reported that storms are occurring or imminent. For more information please visit http://www.weather.gov.sg/home/. \n"
+		],
+		"source": ["http://www.weather.gov.sg/home/"],
+		"time": ["2018-11-05T19:02:02-10:00"]
+	},
+	{
+		"pdc_id": ["4613c10f-53ef-4292-bf7d-763c8a71d801"],
+		"title": ["Storms - Malaysia"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [101.85522301059086, 4.327330841907213]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"MET Malaysia has reported that storms are occurring or imminent. For more information please visit http://www.met.gov.my/data/IWR30002.html. \n"
+		],
+		"source": ["http://www.met.gov.my/data/IWR30002.html"],
+		"time": ["2018-11-05T19:01:17-10:00"]
+	},
+	{
+		"pdc_id": ["76eba7b9-8255-42d0-814c-ac2b82ce8b00"],
+		"title": ["Earthquake - 5.8 - Drake Passage"],
+		"loc": { "type": "Point", "coordinates": [-66.304, -57.5496] },
+		"severity": ["WATCH"],
+		"description": [
+			"An earthquake occurred with a magnitude of 5.8 at a depth of 10.0 km, Location: Drake Passage reported by USGS at November 05, 18:36:11 GMT.\n\nPDC classifies this event as a \"Watch\"\nCoordinates:\n  Latitude: -57.5496\n  Longitude: -66.304\n"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/76eba7b9-8255-42d0-814c-ac2b82ce8b00/index.html"
+		],
+		"time": ["2018-11-05T18:37:33-10:00"]
+	},
+	{
+		"pdc_id": ["a97cdc59-90c5-46f2-8e1a-d3ddd53d4ed0"],
+		"title": ["Storms - Central Brazil"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-53.67386853181, -13.140593762808434]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"INMET has reported that storms may occur. For more information please visit http://www.inmet.gov.br/portal/. \n"
+		],
+		"source": ["http://www.inmet.gov.br/portal/"],
+		"time": ["2018-11-05T18:29:56-10:00"]
+	},
+	{
+		"pdc_id": ["2a9e240d-e86e-41e5-bfd8-930c2f8a0e4d"],
+		"title": ["Volcano - Turrialba, Costa Rica"],
+		"loc": { "type": "Point", "coordinates": [-83.767, 10.025] },
+		"severity": ["WARNING"],
+		"description": [
+			"Volcanic activity reported for TURRIALBA, issued by WASHINGTON\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=345070"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/2a9e240d-e86e-41e5-bfd8-930c2f8a0e4d/index.html"
+		],
+		"time": ["2018-11-05T18:13:05-10:00"]
+	},
+	{
+		"pdc_id": ["bdf1b752-ed67-4ae8-91ae-6514aaa7b28e"],
+		"title": ["Earthquake - 5.0 - 139km NE of Naze, Japan"],
+		"loc": { "type": "Point", "coordinates": [130.536, 29.2218] },
+		"severity": ["ADVISORY"],
+		"description": [
+			"An earthquake occurred with a magnitude of 5.0 at a depth of 24.14 km, Location: 139km NE of Naze, Japan reported by USGS at November 05, 15:28:53 GMT.\n\nPDC classifies this event as an \"Advisory\"\nCoordinates:\n  Latitude: 29.2218\n  Longitude: 130.536\n"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/bdf1b752-ed67-4ae8-91ae-6514aaa7b28e/index.html"
+		],
+		"time": ["2018-11-05T15:31:00-10:00"]
+	},
+	{
+		"pdc_id": ["fff68a44-2e4e-4f83-89f6-a5808610f16e"],
+		"title": ["Earthquake - 5.9 - 59km NNW of Otrada, Russia"],
+		"loc": { "type": "Point", "coordinates": [145.5939, 44.5643] },
+		"severity": ["WATCH"],
+		"description": [
+			"An earthquake occurred with a magnitude of 5.9 at a depth of 8.03 km, Location: 59km NNW of Otrada, Russia reported by USGS at November 04, 19:48:59 GMT.\n\nPDC classifies this event as a \"Watch\"\nCoordinates:\n  Latitude: 44.5643\n  Longitude: 145.5939\n"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/fff68a44-2e4e-4f83-89f6-a5808610f16e/index.html"
+		],
+		"time": ["2018-11-04T19:49:49-10:00"]
+	},
+	{
+		"pdc_id": ["c89246af-6d0e-4688-992b-fda926f4c6bc"],
+		"title": ["Earthquake - 6.0 - 6km SE of Sapad, Philippines"],
+		"loc": { "type": "Point", "coordinates": [123.8717, 7.8051] },
+		"severity": ["WATCH"],
+		"description": [
+			"An earthquake occurred with a magnitude of 6.0 at a depth of 598.1 km, Location: 6km SE of Sapad, Philippines reported by USGS at November 04, 08:16:17 GMT.\n\nPDC classifies this event as a \"Watch\"\nCoordinates:\n  Latitude: 7.8051\n  Longitude: 123.8717\n"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/c89246af-6d0e-4688-992b-fda926f4c6bc/index.html"
+		],
+		"time": ["2018-11-04T08:18:24-10:00"]
+	},
+	{
+		"pdc_id": ["ae51ed29-16c5-45a7-86ce-63627b520962"],
+		"title": ["Wildfire - N of George, Western Cape - South Africa"],
+		"loc": { "type": "Point", "coordinates": [22.927392221, -33.899681095] },
+		"severity": ["INFORMATION"],
+		"description": [
+			"Significant wildfire activity has been observed in the region."
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/ae51ed29-16c5-45a7-86ce-63627b520962/index.html"
+		],
+		"time": ["2018-11-05T03:38:03-10:00"]
+	},
+	{
+		"pdc_id": ["6a1ce4a3-3959-454d-9bc9-6b19d1325268"],
+		"title": ["Volcano - Sangay, Ecuador"],
+		"loc": { "type": "Point", "coordinates": [-78.341, -2.005] },
+		"severity": ["ADVISORY"],
+		"description": [
+			"Volcanic activity reported for SANGAY, issued by WASHINGTON\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=352090"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/6a1ce4a3-3959-454d-9bc9-6b19d1325268/index.html"
+		],
+		"time": ["2018-11-05T02:52:59-10:00"]
+	},
+	{
+		"pdc_id": ["50cc608a-4a67-481c-906a-8925cfe2b83f"],
+		"title": ["Earthquake - 5.8 - Central East Pacific Rise"],
+		"loc": { "type": "Point", "coordinates": [-105.9099, -4.573] },
+		"severity": ["WATCH"],
+		"description": [
+			"An earthquake occurred with a magnitude of 5.8 at a depth of 10.0 km, Location: Central East Pacific Rise reported by USGS at November 04, 22:56:43 GMT.\n\nPDC classifies this event as a \"Watch\"\nCoordinates:\n  Latitude: -4.573\n  Longitude: -105.9099\n"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/50cc608a-4a67-481c-906a-8925cfe2b83f/index.html"
+		],
+		"time": ["2018-11-04T22:58:01-10:00"]
+	},
+	{
+		"pdc_id": ["b49da134-0388-43b2-a333-40cba4ee7590"],
+		"title": ["Volcano - Aira, Japan"],
+		"loc": { "type": "Point", "coordinates": [130.657, 31.593] },
+		"severity": ["WARNING"],
+		"description": [
+			"Volcanic activity reported for SAKURAJIMA (AIRA CALDERA), issued by TOKYO\nFor more information please visit: http://volcano.si.edu/volcano.cfm?vn=282080"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/b49da134-0388-43b2-a333-40cba4ee7590/index.html"
+		],
+		"time": ["2018-11-03T15:06:38-10:00"]
+	},
+	{
+		"pdc_id": ["775a611b-5126-4884-b6fb-16ab168720be"],
+		"title": ["Drought - Southern Botswana, South Africa, and Lesotho "],
+		"loc": {
+			"type": "Point",
+			"coordinates": [26.444690878297365, -27.083919744394546]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"CPC has reported that a drought may occur. For more information please visit http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf. \n"
+		],
+		"source": ["http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf"],
+		"time": ["2018-10-31T19:31:41-10:00"]
+	},
+	{
+		"pdc_id": ["ce3d11cf-a5bb-4742-8883-90f41cc3bfec"],
+		"title": [
+			"Drought - Southeastern Ethiopia, Southern Somalia, and Eastern Kenya"
+		],
+		"loc": {
+			"type": "Point",
+			"coordinates": [41.57451134978942, 4.006037574807611]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"CPC has reported that a drought may occur. For more information please visit http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf. \n"
+		],
+		"source": ["http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf"],
+		"time": ["2018-10-31T19:27:58-10:00"]
+	},
+	{
+		"pdc_id": ["799d974e-e7a4-4ee4-bf41-acaf52a86ae5"],
+		"title": [
+			"Winter Storms - Northern Afghanistan, Kyrgyzstan, and Tajikistan"
+		],
+		"loc": {
+			"type": "Point",
+			"coordinates": [71.54910374669544, 38.86512193028535]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"CPC has reported that winter storms are occurring or imminent. For more information please visit http://www.cpc.ncep.noaa.gov/products/fews/AFGHANISTAN/casia_hazard.pdf. \n"
+		],
+		"source": [
+			"http://www.cpc.ncep.noaa.gov/products/fews/AFGHANISTAN/casia_hazard.pdf"
+		],
+		"time": ["2018-10-31T18:39:20-10:00"]
+	},
+	{
+		"pdc_id": ["8a2ec3ef-f6d3-48db-aa02-321200e69261"],
+		"title": ["Floods - Southeastern Kenya"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [39.58789471517764, -4.166834882371421]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"CPC has reported that floods are occurring or imminent. For more information please visit http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf. \n"
+		],
+		"source": ["http://www.cpc.ncep.noaa.gov/products/fews/africa_hazard.pdf"],
+		"time": ["2018-10-31T17:26:50-10:00"]
+	},
+	{
+		"pdc_id": ["32530a2c-8f8d-4e3e-97ff-701dec093d34"],
+		"title": ["Drought - Haiti/Dominican Republic"],
+		"loc": { "type": "Point", "coordinates": [-71.6903, 18.91056] },
+		"severity": ["WARNING"],
+		"description": [
+			"CPC has reported that a drought is occurring. For more information about this event, visit http://www.cpc.ncep.noaa.gov/products/fews/central_america/haiti/haiti_hazard.pdf.\n"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/32530a2c-8f8d-4e3e-97ff-701dec093d34/index.html"
+		],
+		"time": ["2018-10-31T16:58:42-10:00"]
+	},
+	{
+		"pdc_id": ["27203e1a-7f5e-450a-a019-9f6a91162f03"],
+		"title": ["Drought - Honduras, Eastern El Salvador, and Western Nicaragua"],
+		"loc": { "type": "Point", "coordinates": [-86.80199, 13.6784] },
+		"severity": ["WATCH"],
+		"description": [
+			"CPC has reported that a drought may occur. For more information please visit http://www.cpc.ncep.noaa.gov/products/fews/central_america/central_america_hazard.pdf. \n\n"
+		],
+		"source": [
+			"http://www.cpc.ncep.noaa.gov/products/fews/central_america/central_america_hazard.pdf"
+		],
+		"time": ["2018-10-31T16:56:37-10:00"]
+	},
+	{
+		"pdc_id": ["8c3778e5-456f-491d-9932-0116ae6b6a6e"],
+		"title": ["Drought - Northwestern Guatemala "],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-91.21315694778389, 15.628021582688616]
+		},
+		"severity": ["WATCH"],
+		"description": [
+			"CPC has reported that a drought may occur. For more information please visit http://www.cpc.ncep.noaa.gov/products/fews/central_america/central_america_hazard.pdf. \n"
+		],
+		"source": [
+			"http://www.cpc.ncep.noaa.gov/products/fews/central_america/central_america_hazard.pdf"
+		],
+		"time": ["2018-10-31T16:56:25-10:00"]
+	},
+	{
+		"pdc_id": ["8c44006d-8b9f-44b4-9352-886fe05bb10d"],
+		"title": ["Ebola virus disease – Democratic Republic of the Congo"],
+		"loc": { "type": "Point", "coordinates": [28.59295, -0.55203] },
+		"severity": ["WATCH"],
+		"description": [
+			"On 28 July 2018, the North Kivu Provincial Health Division notified the Ministry of Health of the Democratic Republic of the Congo of a cluster of suspected acute haemorrhagic fever cases. On 1 August 2018, the Institut National de Recherche BiomIdicale (INRB) in Kinshasa reported that four of six samples collected from hospitalised patients tested positive by GeneXpert automated PCR. These presumptive positive tests prompted an immediate escalation of response activities by the Ministry of Health, WHO and partners, and the declaration of the outbreak by the Minister of Health. - WHO Disease Outbreak News 4 August 2018"
+		],
+		"source": [
+			"http://snc.pdc.org/PRODUCTION/8c44006d-8b9f-44b4-9352-886fe05bb10d/index.html"
+		],
+		"time": ["2018-10-17T22:51:06-10:00"]
+	},
+	{
+		"pdc_id": ["6ff289a5-dcf7-4434-ab47-faef4274decb"],
+		"title": ["Drought - Western United States"],
+		"loc": {
+			"type": "Point",
+			"coordinates": [-113.85224376420359, 37.085982428250794]
+		},
+		"severity": ["WARNING"],
+		"description": [
+			"US Drought Monitor has reported that a Drought is occurring or imminent. For more information please visit http://droughtmonitor.unl.edu/\n"
+		],
+		"source": ["http://droughtmonitor.unl.edu/"],
+		"time": ["2018-10-09T14:59:04-10:00"]
+	}
+]
