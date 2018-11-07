@@ -2,13 +2,18 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-import * as d3 from "d3";
-import "aframe";
-import "aframe-scatterplot";
 import { Entity, Scene } from "aframe-react";
 
 import data from "./controllers/data.json";
 import { fetchPDC } from "./controllers/pdc";
+
+// import * as d3 from "d3";
+require("aframe");
+// require("d3");
+require("aframe-scatterplot");
+
+// import "aframe";
+// import "aframe-scatterplot";
 class App extends Component {
 	constructor() {
 		super();
@@ -17,21 +22,23 @@ class App extends Component {
 		};
 	}
 	async fetchData() {
-		console.log(await fetchPDC());
+		// console.log(await fetchPDC());
 	}
 	render() {
-		// this.fetchData();
 		return (
 			<Scene>
 				<a-scatterplot
-					src={data}
-					x="field1"
-					y="field2"
-					z="field3"
-					val="field4"
+					src="/example.json"
+					x="Field1"
+					y="Field2"
+					z="Field3"
+					val="Field4"
+					position="0 0 0"
 				/>
 			</Scene>
 		);
+		// this.fetchData();
+		// return <div />;
 		// return (
 		// 	<div className="App">
 		// 		<header className="App-header">
