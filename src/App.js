@@ -29,11 +29,12 @@ class App extends Component {
 			<Scene>
 				<a-scatterplot
 					src="/example.json"
-					x="Field1"
-					y="Field2"
-					z="Field3"
-					val="Field4"
+					x="Field1" //lat
+					y="Field2" //val
+					z="Field3" //lon
+					val="Field4" //color
 					position="0 0 0"
+					pointSize="5"
 				/>
 			</Scene>
 		);
