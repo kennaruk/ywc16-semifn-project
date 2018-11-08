@@ -28,12 +28,13 @@ class App extends Component {
 		return (
 			<Scene>
 				<a-scatterplot
-					src="/example.json"
-					x="Field1" //lat
-					y="Field2" //val
-					z="Field3" //lon
-					val="Field4" //color
-					position="0 0 0"
+					title="Average salary by province / year"
+					src="/format_clean_dataset.json"
+					x="province" //lat
+					y="averageSalary" //val
+					z="year" //lon
+					val="province" //color
+					position="0.5 0.5 -0.5"
 					pointSize="5"
 				/>
 			</Scene>
